@@ -3,7 +3,7 @@
 #include <locale.h>
 
 //EXERCICIO 1
-void main(){
+/*void main(){
    setlocale(LC_ALL, "Portuguese");
    printf(" Listagem de Alunos \n");
    printf(" Nome\t\tNota\n");
@@ -13,7 +13,7 @@ void main(){
    printf(" Jose\t\t7.5\n");
 
    system("pause");
-}
+}*/
 
 //EXERCICIO 2
 void main(){
