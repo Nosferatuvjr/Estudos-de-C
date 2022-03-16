@@ -24,6 +24,6 @@ void main(){
    return 0;
 }
 
-void main(){
+/*void main(){
    printf("oi \ntudo \nbem? \7");
-}
+}*/
